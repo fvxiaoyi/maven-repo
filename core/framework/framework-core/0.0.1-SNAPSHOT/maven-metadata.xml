@@ -3,27 +3,27 @@
   <groupId>core.framework</groupId>
   <artifactId>framework-core</artifactId>
   <versioning>
-    <lastUpdated>20220905081521</lastUpdated>
+    <lastUpdated>20220905081928</lastUpdated>
     <snapshot>
-      <timestamp>20220905.081521</timestamp>
+      <timestamp>20220905.081928</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20220905.081521-1</value>
-        <updated>20220905081521</updated>
+        <value>0.0.1-20220905.081928-1</value>
+        <updated>20220905081928</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20220905.081521-1</value>
-        <updated>20220905081521</updated>
+        <value>0.0.1-20220905.081928-1</value>
+        <updated>20220905081928</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.1-20220905.081521-1</value>
-        <updated>20220905081521</updated>
+        <value>0.0.1-20220905.081928-1</value>
+        <updated>20220905081928</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

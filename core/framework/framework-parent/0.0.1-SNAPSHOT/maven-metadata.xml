@@ -3,16 +3,16 @@
   <groupId>core.framework</groupId>
   <artifactId>framework-parent</artifactId>
   <versioning>
-    <lastUpdated>20220905081222</lastUpdated>
+    <lastUpdated>20220905082545</lastUpdated>
     <snapshot>
-      <timestamp>20220905.081222</timestamp>
+      <timestamp>20220905.082545</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20220905.081222-1</value>
-        <updated>20220905081222</updated>
+        <value>0.0.1-20220905.082545-1</value>
+        <updated>20220905082545</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

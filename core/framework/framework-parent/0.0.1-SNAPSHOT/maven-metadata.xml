@@ -2,19 +2,19 @@
 <metadata modelVersion="1.1.0">
   <groupId>core.framework</groupId>
   <artifactId>framework-parent</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <versioning>
+    <lastUpdated>20220905080651</lastUpdated>
     <snapshot>
-      <timestamp>20220905.080011</timestamp>
+      <timestamp>20220905.080651</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20220905080011</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20220905.080011-1</value>
-        <updated>20220905080011</updated>
+        <value>0.0.1-20220905.080651-1</value>
+        <updated>20220905080651</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
+  <version>0.0.1-SNAPSHOT</version>
 </metadata>

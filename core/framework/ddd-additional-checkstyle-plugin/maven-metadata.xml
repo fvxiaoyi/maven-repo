@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>core.framework</groupId>
+  <artifactId>ddd-additional-checkstyle-plugin</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221031091421</lastUpdated>
+  </versioning>
+</metadata>

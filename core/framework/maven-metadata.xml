@@ -2,9 +2,9 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>spring-boot-docker-package-maven-plugin Maven Mojo</name>
-      <prefix>spring-boot-docker-package</prefix>
-      <artifactId>spring-boot-docker-package-maven-plugin</artifactId>
+      <name>ddd-checkstyle-additional-plugin</name>
+      <prefix>ddd-checkstyle-additional</prefix>
+      <artifactId>ddd-checkstyle-additional-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>core.framework</groupId>
+  <artifactId>core-modules</artifactId>
+  <version>0.1.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20221101.013920</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20221101013920</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.2-20221101.013920-1</value>
+        <updated>20221101013920</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -2,9 +2,9 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>ddd-checkstyle-additional-plugin</name>
-      <prefix>ddd-checkstyle-additional</prefix>
-      <artifactId>ddd-checkstyle-additional-plugin</artifactId>
+      <name>spring-docker-package-maven-plugin</name>
+      <prefix>spring-docker-package</prefix>
+      <artifactId>spring-docker-package-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>

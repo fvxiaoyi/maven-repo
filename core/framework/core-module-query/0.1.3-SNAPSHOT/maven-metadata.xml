@@ -3,27 +3,27 @@
   <groupId>core.framework</groupId>
   <artifactId>core-module-query</artifactId>
   <versioning>
-    <lastUpdated>20221102013101</lastUpdated>
+    <lastUpdated>20221102020349</lastUpdated>
     <snapshot>
-      <timestamp>20221102.013101</timestamp>
+      <timestamp>20221102.020349</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.3-20221102.013101-1</value>
-        <updated>20221102013101</updated>
+        <value>0.1.3-20221102.020349-1</value>
+        <updated>20221102020349</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.3-20221102.013101-1</value>
-        <updated>20221102013101</updated>
+        <value>0.1.3-20221102.020349-1</value>
+        <updated>20221102020349</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.3-20221102.013101-1</value>
-        <updated>20221102013101</updated>
+        <value>0.1.3-20221102.020349-1</value>
+        <updated>20221102020349</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

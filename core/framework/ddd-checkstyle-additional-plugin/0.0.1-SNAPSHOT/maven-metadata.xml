@@ -3,27 +3,27 @@
   <groupId>core.framework</groupId>
   <artifactId>ddd-checkstyle-additional-plugin</artifactId>
   <versioning>
-    <lastUpdated>20221102020921</lastUpdated>
+    <lastUpdated>20221102022016</lastUpdated>
     <snapshot>
-      <timestamp>20221102.020921</timestamp>
+      <timestamp>20221102.022016</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20221102.020921-1</value>
-        <updated>20221102020921</updated>
+        <value>0.0.1-20221102.022016-1</value>
+        <updated>20221102022016</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20221102.020921-1</value>
-        <updated>20221102020921</updated>
+        <value>0.0.1-20221102.022016-1</value>
+        <updated>20221102022016</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.1-20221102.020921-1</value>
-        <updated>20221102020921</updated>
+        <value>0.0.1-20221102.022016-1</value>
+        <updated>20221102022016</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

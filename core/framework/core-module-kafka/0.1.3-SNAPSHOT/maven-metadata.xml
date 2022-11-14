@@ -3,27 +3,27 @@
   <groupId>core.framework</groupId>
   <artifactId>core-module-kafka</artifactId>
   <versioning>
-    <lastUpdated>20221114092638</lastUpdated>
+    <lastUpdated>20221114093511</lastUpdated>
     <snapshot>
-      <timestamp>20221114.092638</timestamp>
+      <timestamp>20221114.093511</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.3-20221114.092638-1</value>
-        <updated>20221114092638</updated>
+        <value>0.1.3-20221114.093511-1</value>
+        <updated>20221114093511</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.3-20221114.092638-1</value>
-        <updated>20221114092638</updated>
+        <value>0.1.3-20221114.093511-1</value>
+        <updated>20221114093511</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.3-20221114.092638-1</value>
-        <updated>20221114092638</updated>
+        <value>0.1.3-20221114.093511-1</value>
+        <updated>20221114093511</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

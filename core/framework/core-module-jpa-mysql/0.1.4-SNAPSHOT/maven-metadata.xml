@@ -3,27 +3,27 @@
   <groupId>core.framework</groupId>
   <artifactId>core-module-jpa-mysql</artifactId>
   <versioning>
-    <lastUpdated>20221115034830</lastUpdated>
+    <lastUpdated>20221115053949</lastUpdated>
     <snapshot>
-      <timestamp>20221115.034830</timestamp>
+      <timestamp>20221115.053949</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1.4-20221115.034830-1</value>
-        <updated>20221115034830</updated>
+        <value>0.1.4-20221115.053949-1</value>
+        <updated>20221115053949</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.4-20221115.034830-1</value>
-        <updated>20221115034830</updated>
+        <value>0.1.4-20221115.053949-1</value>
+        <updated>20221115053949</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.1.4-20221115.034830-1</value>
-        <updated>20221115034830</updated>
+        <value>0.1.4-20221115.053949-1</value>
+        <updated>20221115053949</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

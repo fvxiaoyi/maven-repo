@@ -4,9 +4,8 @@
   <artifactId>core-module-feign</artifactId>
   <versioning>
     <versions>
-      <version>0.1.3-SNAPSHOT</version>
       <version>0.1.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20221115062613</lastUpdated>
+    <lastUpdated>20221115082339</lastUpdated>
   </versioning>
 </metadata>

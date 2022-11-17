@@ -3,16 +3,16 @@
   <groupId>core.framework</groupId>
   <artifactId>core-module-jpa</artifactId>
   <versioning>
-    <lastUpdated>20221115082339</lastUpdated>
+    <lastUpdated>20221117074817</lastUpdated>
     <snapshot>
-      <timestamp>20221115.082339</timestamp>
+      <timestamp>20221117.074817</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.4-20221115.082339-1</value>
-        <updated>20221115082339</updated>
+        <value>0.1.4-20221117.074817-1</value>
+        <updated>20221117074817</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
